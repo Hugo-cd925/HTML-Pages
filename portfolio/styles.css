@@ -1,0 +1,25 @@
+.project-tile {
+    max-width: 2rem;
+  }
+  
+  #navbar {
+   position: fixed;
+     width: 100%;
+       top: 0;
+    left: 0;
+  }
+  
+  @media only screen and (min-width: 960px) {
+            .project-tile
+            {
+              max-width: 4rem;
+            }
+  }
+   @media only screen and (min-width: 1440px) {
+            .project-tile
+            {
+              max-width:1440px;
+              
+            }
+        }
+  
