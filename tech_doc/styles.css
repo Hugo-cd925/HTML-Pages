@@ -1,0 +1,10 @@
+p {
+    color: darkblue;
+}
+
+@media only screen and (min-width: 960px) {
+    .banner {
+        width: 960px;
+        height: auto;
+    }
+}
